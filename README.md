@@ -1,1 +1,1 @@
-# jquery-examples
+# web-examples
